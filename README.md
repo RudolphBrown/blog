@@ -1,5 +1,5 @@
 # blog
-Share what I know and make friend.
+Share what I know and make friends.
 
 ## 容器云
 
